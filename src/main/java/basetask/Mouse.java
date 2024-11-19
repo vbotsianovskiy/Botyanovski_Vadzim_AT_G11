@@ -4,7 +4,7 @@ public class Mouse {
     private String name;
     private int age;
 
-    public Mouse(String name, int age) {
+    public Mouse(String полёвка, int i) {
         this.name = name;
         this.age = age;
     }
