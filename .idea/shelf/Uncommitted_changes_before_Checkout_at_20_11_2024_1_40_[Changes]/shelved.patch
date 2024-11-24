@@ -1,0 +1,200 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"df235afd-008d-499f-8f19-c99568b99bcd\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"vbotsianovskiy\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"git@github.com:vbotsianovskiy/Botyanovski_Vadzim_AT_G11.git\",\r\n    \"accountId\": \"18e83b84-c8bc-4e86-a976-b7a73965f6cc\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2otmsHUNxrbPZ0pUDQ9Vb6vooGU\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"hometask__day1__basetask\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"D:/Vadim/aqa1/Botyanovski_Vadzim_AT_G11\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Vadim\\aqa1\\Botyanovski_Vadzim_AT_G11\\src\\main\\java\\basetask\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"df235afd-008d-499f-8f19-c99568b99bcd\" name=\"Changes\" comment=\"\" />\r\n      <created>1731697451639</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1731697451639</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision fb89f37ad0b2c408b62b1c2877e303535214bc2c)
++++ b/.idea/workspace.xml	(date 1732024456000)
+@@ -4,27 +4,37 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="df235afd-008d-499f-8f19-c99568b99bcd" name="Changes" comment="" />
++    <list default="true" id="df235afd-008d-499f-8f19-c99568b99bcd" name="Changes" comment="homework_day1">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++        <option value="Record" />
++      </list>
++    </option>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "vbotsianovskiy"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;vbotsianovskiy&quot;
+   }
+-}]]></component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "git@github.com:vbotsianovskiy/Botyanovski_Vadzim_AT_G11.git",
+-    "accountId": "18e83b84-c8bc-4e86-a976-b7a73965f6cc"
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;git@github.com:vbotsianovskiy/Botyanovski_Vadzim_AT_G11.git&quot;,
++    &quot;accountId&quot;: &quot;18e83b84-c8bc-4e86-a976-b7a73965f6cc&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 6
+ }</component>
+@@ -34,19 +44,88 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "hometask__day1__basetask",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "D:/Vadim/aqa1/Botyanovski_Vadzim_AT_G11"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.TrainMethodsIfRunner.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TrainMethodsObjectsRunner.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TrainMethodsPrimitiveRunner.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TrainMethodsStringRunner.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;hometask__day1__basetask&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;D:/Vadim/aqa1/Botyanovski_Vadzim_AT_G11&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
++    <key name="CreateClassDialog.RecentsKey">
++      <recent name="main.java.basetask" />
++    </key>
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="D:\Vadim\aqa1\Botyanovski_Vadzim_AT_G11\src\main\java\basetask" />
+     </key>
+   </component>
++  <component name="RunManager" selected="Application.TrainMethodsObjectsRunner">
++    <configuration name="TrainMethodsIfRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="main.java.basetask.TrainMethodsIfRunner" />
++      <module name="Botyanovski_Vadzim_AT_G11" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="main.java.basetask.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="TrainMethodsObjectsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="main.java.basetask.TrainMethodsObjectsRunner" />
++      <module name="Botyanovski_Vadzim_AT_G11" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="main.java.basetask.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="TrainMethodsPrimitiveRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="main.java.basetask.TrainMethodsPrimitiveRunner" />
++      <module name="Botyanovski_Vadzim_AT_G11" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="main.java.basetask.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="TrainMethodsStringRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="main.java.basetask.TrainMethodsStringRunner" />
++      <module name="Botyanovski_Vadzim_AT_G11" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="main.java.basetask.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.TrainMethodsObjectsRunner" />
++        <item itemvalue="Application.TrainMethodsStringRunner" />
++        <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
++        <item itemvalue="Application.TrainMethodsIfRunner" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -56,6 +135,43 @@
+       <option name="presentableId" value="Default" />
+       <updated>1731697451639</updated>
+     </task>
++    <task id="LOCAL-00001" summary="homework_day1">
++      <option name="closed" value="true" />
++      <created>1732024087140</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1732024087140</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="HEAD" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="add homework_day1" />
++    <MESSAGE value="homework_day1" />
++    <option name="LAST_COMMIT_MESSAGE" value="homework_day1" />
++  </component>
+ </project>
+\ No newline at end of file
